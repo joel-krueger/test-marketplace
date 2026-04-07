@@ -1,0 +1,13 @@
+{
+  "name": "test-marketplace",
+  "owner": {
+    "name": "Joel Krueger"
+  },
+  "plugins": [
+    {
+      "name": "magic-number-plugin",
+      "source": "./plugins/magic-number-plugin",
+      "description": "Adds a /magic-number skill for knowing the magic number."
+    }
+  ]
+}
